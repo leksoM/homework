@@ -1,0 +1,43 @@
+.logo{ width: 100px; 
+	margin:30px 0px 0px 30px;
+}
+.navigation-ul{
+	list-style-type: none;
+	padding:0;
+	margin-left:30px;
+	font-size:22px;
+	font-family:nino-mtavruli-bold;
+
+}
+.vertical-items{
+	display:inline-block;
+	vertical-align:middle;
+}
+.navigation-M:hover{
+	padding-right:12px;
+	color:red;
+}
+.navigation-S{
+	padding-left:12px;
+	padding-right:12px;
+}
+.navigation-K{
+	padding-left:12px;
+}
+.banner{
+	margin-left:100px;
+	margin-right:100px;
+	margin-top::auto;
+	margin-bottom:auto; 
+}
+.footer{
+ list-style-type:none;
+ margin-left:30px;
+}
+.social-list{
+width:20px;
+
+}
+.footer-list{
+	list-style-type:none;}
+	
